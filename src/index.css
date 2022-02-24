@@ -7,16 +7,10 @@ body {
     padding-left: 30px;
   }
   
-  .board-row:after {
-    clear: both;
-    content: "";
-    display: table;
-  }
-  
   .status {
     margin-bottom: 10px;
   }
-  
+
   .square {
     background: #fff;
     border: 1px solid #999;
@@ -30,6 +24,10 @@ body {
     padding: 0;
     text-align: center;
     width: 34px;
+  }
+
+  .square--is-winning {
+    background: greenyellow !important;
   }
   
   .square:focus {
@@ -45,7 +43,13 @@ body {
     flex-direction: row;
   }
   
-  .game-info {
+  .game__info {
     margin-left: 20px;
+  }
+  
+  .board__row:after {
+    clear: both;
+    content: "";
+    display: table;
   }
   
