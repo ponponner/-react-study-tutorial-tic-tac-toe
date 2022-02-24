@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-study-tutorial-tic-tac-toe/static/css/main.ef1c26f8.css",
+    "main.js": "/react-study-tutorial-tic-tac-toe/static/js/main.ce432b47.js",
+    "index.html": "/react-study-tutorial-tic-tac-toe/index.html",
+    "main.ef1c26f8.css.map": "/react-study-tutorial-tic-tac-toe/static/css/main.ef1c26f8.css.map",
+    "main.ce432b47.js.map": "/react-study-tutorial-tic-tac-toe/static/js/main.ce432b47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef1c26f8.css",
+    "static/js/main.ce432b47.js"
+  ]
+}
